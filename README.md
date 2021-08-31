@@ -5,3 +5,5 @@
 Made in collaboration with another student
 
 #### Guide:
+
+This project consists of implementing and testing different feedforward neural network (NN) architectures to correctly classify Greek characters.
